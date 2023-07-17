@@ -143,7 +143,7 @@ To install the macros, first clone this repository inside of your
 `printer_data/config` directory with the following command.
 
 ```
-git clone https://github.com/jschuh/klipper-macros.git
+git clone https://github.com/kumpeapps/klipper-macros.git
 ```
 
 Then paste the below sections into your `printer.cfg` to get started. Or even
